@@ -1,3 +1,4 @@
+feed.ispoofer.com
 050003.voodoo.io
 050005.voodoo.io
 0914.global.ssl.fastly.net
